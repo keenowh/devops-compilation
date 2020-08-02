@@ -1,0 +1,1 @@
+A collection of my backend self-exercises as I prepare to become a Software Engineer - Backend focused as I try to break in the DevOps journey
